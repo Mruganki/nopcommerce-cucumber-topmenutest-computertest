@@ -1,0 +1,18 @@
+2021-06-28 22:06:33 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 22:06:361 INFO  HomePage :44 - Clicking on all Top Menu Tabs[[ChromeDriver: chrome on WINDOWS (02432dcbce510ab87195b9287f75f676)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:362 INFO  Desktop :37 - Click On Computerscom.nopcommerce.demo.page.HomePage@6cc0bcf6
+2021-06-28 22:06:938 INFO  Computer :57 - click on Desktop [[ChromeDriver: chrome on WINDOWS (02432dcbce510ab87195b9287f75f676)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-28 22:06:185 INFO  Desktop :50 - Select Assending Order from DropDown [[ChromeDriver: chrome on WINDOWS (02432dcbce510ab87195b9287f75f676)] -> id: products-orderby]
+2021-06-28 22:06:369 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 22:06:728 INFO  HomePage :44 - Clicking on all Top Menu Tabs[[ChromeDriver: chrome on WINDOWS (69188d1b418b50da94200bb92a91d868)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:764 INFO  HomePage :78 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (69188d1b418b50da94200bb92a91d868)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
+2021-06-28 23:06:381 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 23:06:377 INFO  HomePage :44 - Clicking on all Top Menu Tabs[[ChromeDriver: chrome on WINDOWS (8b73eab00bcf7c2231205a7f1fe90785)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 23:06:531 INFO  Computer :57 - click on Desktop [[ChromeDriver: chrome on WINDOWS (8b73eab00bcf7c2231205a7f1fe90785)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-28 23:06:743 INFO  Desktop :50 - Select Assending Order from DropDown [[ChromeDriver: chrome on WINDOWS (8b73eab00bcf7c2231205a7f1fe90785)] -> id: products-orderby]
+2021-06-28 23:06:875 INFO  Desktop :57 - Click on Add to cart Button [[ChromeDriver: chrome on WINDOWS (8b73eab00bcf7c2231205a7f1fe90785)] -> xpath: //span[text()='$1,200.00']//parent::div/following::div[1]/button[text()='Add to cart']]
+2021-06-29 06:06:721 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 06:06:346 INFO  HomePage :44 - Clicking on all Top Menu Tabs[[ChromeDriver: chrome on WINDOWS (74ef962b881252f44cc9ca99494b12ed)] -> xpath: //body/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 06:06:495 INFO  Computer :57 - click on Desktop [[ChromeDriver: chrome on WINDOWS (74ef962b881252f44cc9ca99494b12ed)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-29 06:06:711 INFO  Desktop :50 - Select Assending Order from DropDown [[ChromeDriver: chrome on WINDOWS (74ef962b881252f44cc9ca99494b12ed)] -> id: products-orderby]
+2021-06-29 06:06:857 INFO  Desktop :57 - Click on Add to cart Button [[ChromeDriver: chrome on WINDOWS (74ef962b881252f44cc9ca99494b12ed)] -> xpath: //span[text()='$1,200.00']//parent::div/following::div[1]/button[text()='Add to cart']]
